@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Nithyashree V !
 
-<!--
-**Nithyashree-123/Nithyashree-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student | Full Stack Web Development  
 
-Here are some ideas to get you started:
+☁ AWS, UI/UX Design| Learning and Enhancing Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 I build projects on Complete Full Stack Web Development with GitHub Actions, and document everything.
+
+## 🔧 Tech Stack:
+- 🐝 Intermediate Web Developer (HTML,CSS,JAVASCRIPT) 
+- 🌐 Digital Engineering
+- 🐧 Git + GitHub Actions
+- 🛠 Software Engineering
+
+## 📌 Featured Projects:
+1* Furnisphere→A Complete Full Stack Furniture Website with Homepage, Sign In/Sign up Authentications and Backend Admin Access. 
+
+## 🫧 Let’s connect on LinkedIn
+→(https://linkedin.com/in/nithyashree0024)
